@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 
 /**
- * IP PA System — Dashboard
+ * Hatyai — Dashboard
  * ต้องการ: react, lucide-react, tailwindcss (v3+)
  *   npm i lucide-react
  *
